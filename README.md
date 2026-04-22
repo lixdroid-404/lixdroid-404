@@ -2,7 +2,7 @@
 <!-- Main heading with typing SVG -->
 <h1 align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=2000&size=28&duration=2500&pause=1000&color=F7E3F3&width=600&lines=%F0%9F%91%8B+HELLO+WORLD!+%F0%9F%8C%8D+I'M++LIXDROID+%F0%9F%92%BB;A+PASSIONATE+TECH+ENTHUSIAST++%F0%9F%9A%80+" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=F7F7F7&center=true&width=600&lines=%F0%9F%91%8B+HELLO+WORLD+%F0%9F%8C%8F+I'M+LIXDROID+%F0%9F%91%BE;A+PASSIONATE+TECH+ENTHUSIAST+%F0%9F%94%8C" alt="Typing SVG" /></a>
 </a>
 </h1>
 <!-- First gif banner  -->
