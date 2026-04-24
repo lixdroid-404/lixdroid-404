@@ -28,7 +28,7 @@ root@lix: Fastfetch
 --------------------------------------------------------------
 Username : Lixdroid-sys 👾
 WhoamI   : College Student 👨‍🎓
-OS       : Arch Linux / Custom ROMs 
+OS       : Arch Linux 🐧 / Custom ROM 📱
 Languages: 🖥️ Bash, 🐍 Python, ⚙️ C, ☕ Java
 Interest : AI 🤖, Linux 🐧, ML 🧠, Bash 🐚, Open Source 🔓
 Loves    : Videogames 🎮, Technology stuff 🚀, Books 📚
