@@ -12,7 +12,7 @@
 <!-- This is the about me section -->
 <h1 align="center">
   About Me
-  <img src="https://github.com/lixdroid-sys/lixdroid-404/blob/main/images/9.gif" 
+  <img src="https://github.com/lixdroid-404/lixdroid-404/blob/main/images/9.gif" 
        width="30" 
        style="vertical-align: -3px;">
 </h1>
