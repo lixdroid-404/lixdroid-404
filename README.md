@@ -7,7 +7,7 @@
 </h1>
 <!-- First gif banner  -->
 <div align="center">
-<img src="https://github.com/lixdroid-sys/lixdroid-404/blob/main/images/3.gif" />
+<img src="https://github.com/lixdroid-404/lixdroid-404/blob/main/images/3.gif" />
 </div>
 <!-- This is the about me section -->
 <h1 align="center">
