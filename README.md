@@ -27,7 +27,7 @@ root@lix: Fastfetch
   <pre style="margin: 0; font-size: 14px;">
 --------------------------------------------------------------
 Username : Lixdroid 👾
-WhoamI   : College Student 👨‍🎓
+WhoamI   : Unemployed 👨‍🎓
 OS       : Arch Linux 🐧 / Custom ROM 📱
 Languages: 🖥️ Bash, 🐍 Python, ⚙️ C, ☕ Java
 Interest : AI 🤖, Linux 🐧, ML 🧠, Bash 🐚, Open Source 🔓
