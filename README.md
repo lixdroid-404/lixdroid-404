@@ -19,7 +19,7 @@
 <!-- This is the neofetch section-->
 
 ```zsh
-root@lix: Fastfetch
+root@lix: fastfetch
 ```
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
