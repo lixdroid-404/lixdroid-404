@@ -78,4 +78,4 @@ Learning : Computer Science 💻
 <img src="https://count.getloli.com/@lixdroid-404?name=lixdroid-sys&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
   </div>
 <!-- End of the README.md file
-(I’ll pause for now and continue later) -->
+(I’ll pause for now and continue later) -->.
