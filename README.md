@@ -75,7 +75,7 @@ Learning : Computer Science 💻
 <div>
 <h2 align="center">View Counter <img src="https://github.com/lixdroid-404/lixdroid-404/blob/main/images/7.gif" width="35px" height="35px"></h2>
 <div align="center">
-<img src="https://count.getloli.com/@lixdroid-404?name=lixdroid-sys&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
+<img src="https://count.getloli.com/@lixdroid-404?name=lixdroid-404&theme=minecraft&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" />
   </div>
 <!-- End of the README.md file
-(I’ll pause for now and continue later) -->.
+(I’ll pause for now and continue later) -->
